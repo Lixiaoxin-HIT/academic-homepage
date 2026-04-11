@@ -1,0 +1,25 @@
+---
+title: "About"
+---
+
+# About Me
+
+I am a postdoctoral researcher working in the fields of metasurfaces, optical computing, and computational imaging.
+
+## Biography
+
+My research focuses on metasurface-enabled optical information processing, multidimensional light-field modulation, and integrated sensing systems.
+
+## Education
+
+- Ph.D. in Optics
+- M.S. in Physics
+- B.S. in Physics
+
+## Academic Interests
+
+- Metasurface optics
+- Diffractive optical computing
+- Incoherent optical convolution
+- Spectral-polarimetric imaging
+- Integrated meta-optical systems

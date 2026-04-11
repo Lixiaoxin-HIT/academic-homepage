@@ -1,0 +1,21 @@
+---
+title: "Sample Paper Title"
+date: 2026-04-11
+description: "A sample publication entry for your academic homepage."
+---
+
+# Sample Paper Title
+
+**Authors:** Your Name, Coauthor A, Coauthor B
+
+**Journal:** Journal Name, 2026
+
+**DOI:** 10.xxxx/xxxxx
+
+## Summary
+
+This paper presents a sample entry used to demonstrate how publication pages are organized on the website.
+
+## Links
+
+- [PDF](../assets/pdf/sample-paper.pdf)

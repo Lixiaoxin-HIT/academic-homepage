@@ -1,0 +1,37 @@
+---
+title: "Home"
+---
+
+# Your Name
+
+Postdoctoral Researcher in Metasurfaces, Optical Computing, and Computational Imaging.
+
+## Research Interests
+
+- Metasurfaces
+- Optical Computing
+- Computational Imaging
+- Polarization and Spectral Encoding
+- Integrated Meta-optics
+
+## Short Bio
+
+I am a postdoctoral researcher working on metasurface-enabled optical information processing, computational imaging, and multidimensional optical sensing.
+
+## Selected Topics
+
+### Metasurface-enabled optical computing
+Using metasurfaces for optical encoding and task-oriented information processing.
+
+### Incoherent optical differentiation and convolution
+Exploring optical computation under practical incoherent illumination conditions.
+
+### High-dimensional imaging and sensing
+Integrating metasurfaces with imaging sensors for spectral and polarization reconstruction.
+
+## Quick Links
+
+- [Google Scholar](https://scholar.google.com/)
+- [ORCID](https://orcid.org/)
+- [GitHub](https://github.com/)
+- [Download CV](assets/pdf/cv.pdf)

@@ -1,0 +1,10 @@
+---
+title: "Contact"
+---
+
+# Contact
+
+- Email: yourname@university.edu
+- Google Scholar: [Profile](https://scholar.google.com/)
+- ORCID: [Profile](https://orcid.org/)
+- GitHub: [Profile](https://github.com/)

@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+# Research
+
+## 1. Metasurface-enabled Optical Computing
+
+This research direction explores how dielectric metasurfaces can perform optical encoding, convolution, and information processing.
+
+## 2. Incoherent Optical Differentiation and Convolution
+
+This direction investigates optical computation under incoherent illumination, with a focus on practical imaging-compatible systems.
+
+## 3. High-dimensional Imaging and Sensing
+
+This direction aims to integrate metasurface encoders with image sensors for snapshot spectral and polarization reconstruction.

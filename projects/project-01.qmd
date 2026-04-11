@@ -1,0 +1,25 @@
+---
+title: "Sample Project Title"
+date: 2026-04-11
+description: "A sample project entry for your academic homepage."
+---
+
+# Sample Project Title
+
+## Background
+
+This project explores a metasurface-enabled optical information processing architecture.
+
+## Innovation
+
+The project combines physical optical encoding with computational reconstruction.
+
+## My Role
+
+I designed the concept, simulation framework, and system validation pipeline.
+
+## Related Outputs
+
+- Paper 1
+- Patent 1
+- Conference Talk 1

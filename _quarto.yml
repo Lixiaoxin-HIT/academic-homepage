@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Your Name"
+  navbar:
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "Google Scholar"
+        href: https://scholar.google.com/
+      - text: "ORCID"
+        href: https://orcid.org/
+      - text: "GitHub"
+        href: https://github.com/
+  page-footer:
+    left: "© 2026 Your Name"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.scss
+    toc: true
+    smooth-scroll: true
