@@ -21,12 +21,12 @@ title: "Home"
 
 ### Metasurface-enabled optical computing
 
-![Free space optical computing](assets/images/meta1.png){width=50% fig-align="center"}
+![](assets/images/meta1.png){width=75% fig-align="center"}
 
 Using metasurfaces for optical encoding and task-oriented information processing.
 
 ### Incoherent optical differentiation and convolution
-![optical differentiation and convolution](assets/images/meta2.png){width=50% fig-align="center"}
+![](assets/images/meta2.png){width=75% fig-align="center"}
 
 Exploring optical computation under practical incoherent illumination conditions.
 
