@@ -4,9 +4,9 @@ title: "Home"
 
 # 李效欣（Li Xiaoxin）
 
-李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。
-研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来共发表论文20余篇，包括第一/共一作者身份在Nature Communications、Advanced Optical Materials、Advanced photonics Nexus等学术期刊发表SCI论文5篇，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等奖项。
+![](assets/images/Lixiaoxin1.jpg){width=220 fig-align="left"}
 
+李效欣，物理学博士，哈尔滨工业大学物理学院本硕博，研究方向是超表面光计算与光感知芯片。
 
 ## Research Interests
 
@@ -16,16 +16,18 @@ title: "Home"
 - 结构光场调控（Structured Light Field Modulation）
 - 集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）
 
-## Short Bio
-
-I am a postdoctoral researcher working on metasurface-enabled optical information processing, computational imaging, and multidimensional optical sensing.
 
 ## Selected Topics
 
 ### Metasurface-enabled optical computing
+
+![Free space optical computing](assets/images/meta1.png){width=50% fig-align="center"}
+
 Using metasurfaces for optical encoding and task-oriented information processing.
 
 ### Incoherent optical differentiation and convolution
+![optical differentiation and convolution](assets/images/meta2.png){width=50% fig-align="center"}
+
 Exploring optical computation under practical incoherent illumination conditions.
 
 ### High-dimensional imaging and sensing
@@ -33,7 +35,6 @@ Integrating metasurfaces with imaging sensors for spectral and polarization reco
 
 ## Quick Links
 
-- [Google Scholar](https://scholar.google.com/)
-- [ORCID](https://orcid.org/)
-- [GitHub](https://github.com/)
-- [Download CV](assets/pdf/cv.pdf)
+- [Google Scholar](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=zh-CN)
+- [Researcher](https://www.researchgate.net/profile/Xiaoxin-Li-6?ev=hdr_xprf&_sg=JUNKMKhjpxFbX-5xgV99mvJlWoU0jdbP2OFqy7NxhnftYDElqhuvNqSjdpWVzAz6PxHIX9NVk4VnxhVCUPlPHMwQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19)
+- [Download CV](assets/pdf/CV-lxx.pdf)
