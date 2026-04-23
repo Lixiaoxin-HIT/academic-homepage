@@ -2,17 +2,19 @@
 title: "Home"
 ---
 
-# Li Xiaoxin
+# 李效欣（Li Xiaoxin）
 
-Postdoctoral Researcher in Metasurfaces, Optical Computing, and Computational Imaging.
+李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。
+研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来共发表论文20余篇，包括第一/共一作者身份在Nature Communications、Advanced Optical Materials、Advanced photonics Nexus等学术期刊发表SCI论文5篇，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等奖项。
+
 
 ## Research Interests
 
-- Metasurfaces
-- Optical Computing
-- Computational Imaging
-- Polarization and Spectral Encoding
-- Integrated Meta-optics
+- 超构表面（Metasurfaces）
+- 自由空间光计算（Free Space Optical Computing）
+- 多维度计算成像（Multi-Demonsion Computational Imaging）
+- 结构光场调控（Structured Light Field Modulation）
+- 集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）
 
 ## Short Bio
 
