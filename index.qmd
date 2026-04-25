@@ -31,6 +31,7 @@ Using metasurfaces for optical encoding and task-oriented information processing
 Exploring optical computation under practical incoherent illumination conditions.
 
 ### High-dimensional imaging and sensing
+![](assets/images/meta3.png){width=75% fig-align="center"}
 Integrating metasurfaces with imaging sensors for spectral and polarization reconstruction.
 
 ## Quick Links
