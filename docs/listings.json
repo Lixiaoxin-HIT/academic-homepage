@@ -1,14 +1,14 @@
 [
   {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/paper-01.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/project-01.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/paper-01.html"
     ]
   }
 ]

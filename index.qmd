@@ -8,9 +8,17 @@ title: "Home"
 
 李效欣，物理学博士，哈尔滨工业大学物理学院本硕博，研究方向是超表面光计算与光感知芯片。
 
+
+## Education
+
+- 2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学
+- 2019-2021 硕士，哈尔滨工业大学 物理学院 光学
+- 2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程
+
+
 ## Research Interests
 
-- 超构表面（Metasurfaces）
+- 超构表面（Metasurface optics）
 - 自由空间光计算（Free Space Optical Computing）
 - 多维度计算成像（Multi-Demonsion Computational Imaging）
 - 结构光场调控（Structured Light Field Modulation）
@@ -19,19 +27,20 @@ title: "Home"
 
 ## Selected Topics
 
-### Metasurface-enabled optical computing
-
-![](assets/images/meta1.png){width=75% fig-align="center"}
+### Metasurface-enabled optical computing（超表面自由空间光计算架构）
 
 Using metasurfaces for optical encoding and task-oriented information processing.
 
-### Incoherent optical differentiation and convolution
-![](assets/images/meta2.png){width=75% fig-align="center"}
+### Structured Light Field Manipulation and Detection（结构光场调控与探测）
+
+This research direction explores the generation, control, and detection of complex structured light fields, including vortex beams, vector optical fields, and optical skyrmions.
+
+### Incoherent optical differentiation and convolution（非相干光学卷积与感算一体架构）
 
 Exploring optical computation under practical incoherent illumination conditions.
 
-### High-dimensional imaging and sensing
-![](assets/images/meta3.png){width=75% fig-align="center"}
+### High-dimensional imaging and sensing（高维度光场成像与感知）
+
 Integrating metasurfaces with imaging sensors for spectral and polarization reconstruction.
 
 ## Quick Links
