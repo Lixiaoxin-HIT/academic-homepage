@@ -39,7 +39,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "李效欣，物理学博士，哈尔滨工业大学物理学院本硕博，研究方向是超表面光计算与光感知芯片。\n\n\n\n2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程\n\n\n\n\n\n超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multi-Demonsion Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）\n\n\n\n\n\n\nUsing metasurfaces for optical encoding and task-oriented information processing.\n\n\n\nThis research direction explores the generation, control, and detection of complex structured light fields, including vortex beams, vector optical fields, and optical skyrmions.\n\n\n\nExploring optical computation under practical incoherent illumination conditions.\n\n\n\nIntegrating metasurfaces with imaging sensors for spectral and polarization reconstruction.\n\n\n\n\n\nGoogle Scholar\nResearcher\nDownload CV"
+    "text": "李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。\n\n\n\n\n2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程\n\n\n\n\n\n超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multi-Demonsion Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）\n\n\n\n\n\nGoogle Scholar\nResearcher\nDownload CV"
+  },
+  {
+    "objectID": "index.html#about-me个人简介",
+    "href": "index.html#about-me个人简介",
+    "title": "Home",
+    "section": "",
+    "text": "李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。"
   },
   {
     "objectID": "index.html#education",
@@ -54,13 +61,6 @@
     "title": "Home",
     "section": "",
     "text": "超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multi-Demonsion Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）"
-  },
-  {
-    "objectID": "index.html#selected-topics",
-    "href": "index.html#selected-topics",
-    "title": "Home",
-    "section": "",
-    "text": "Using metasurfaces for optical encoding and task-oriented information processing.\n\n\n\nThis research direction explores the generation, control, and detection of complex structured light fields, including vortex beams, vector optical fields, and optical skyrmions.\n\n\n\nExploring optical computation under practical incoherent illumination conditions.\n\n\n\nIntegrating metasurfaces with imaging sensors for spectral and polarization reconstruction."
   },
   {
     "objectID": "index.html#quick-links",
@@ -116,35 +116,35 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。"
+    "text": "Using metasurfaces and diffractive neural networks for multidimensional, high-capacity, and parallel optical information processing.\n该方向面向光计算与智能信息处理需求，研究基于超表面的光学计算架构，重点包括衍射神经网络、任务驱动光学编码以及多维度光信息并行处理等内容。通过设计具有特定传递特性的超表面器件，将光场调控、特征提取与计算功能前移至物理层，实现对幅度、相位、偏振、波长等多维信息的联合编码与处理。该方向致力于突破传统电子计算在功耗、并行度和数据吞吐方面的限制，为高容量、低能耗和高速并行的光学信息处理提供新方案。\n\n\n\n\n\n\n\n\nGenerating, controlling, and detecting complex structured light fields, including vortex beams, vector optical fields, and optical skyrmions.\n该方向聚焦复杂结构光场的产生、调控与探测，重点研究涡旋光束、矢量光场以及光学斯格明子等特殊光场的物理构建方法、传播调控机制及其信息表征方式。通过超表面与衍射光学器件，实现对光场轨道角动量、自旋角动量、空间偏振纹理及拓扑特征的精确控制，并进一步发展面向复杂结构光场的高效检测与解码方法。该方向面向高维光通信、拓扑光子学、精密测量和新型信息编码等场景拓展。\n\n\n\n\n\n\n\n\nExploring optical differentiation and convolution under practical incoherent illumination conditions.\n该方向面向实际成像与视觉感知场景中的非相干照明条件，研究非相干光学微分、卷积计算及其在图像边缘增强、特征提取和目标识别中的应用。不同于依赖相干干涉的传统光计算方法，该方向更加关注与自然光、宽带照明和常规成像系统兼容的计算架构，通过设计超表面的空间频率响应与等效光学传递函数，实现高阶微分、卷积核并行输出以及任务相关的光学预处理功能。该方向旨在推动光计算从理想实验条件走向真实成像环境，为低功耗、实时化、片上化视觉前端提供支撑。\n\n\n\n\n\n\n\n\nIntegrating metasurface encoders with image sensors for multidimensional optical field sensing and imaging, including depth, 3D, spectral, and polarization information.\n该方向面向新型智能成像芯片与多维光场感知需求，研究将超表面编码器直接集成到图像传感器前端，实现深度、三维形貌、光谱、偏振等多维信息的压缩编码探测与计算成像重建。通过在像面或近像面位置引入具有特定调制特性的超表面结构，可在硬件层面对入射光场进行高维编码，再结合重建算法或神经网络实现多维信息的单次快照恢复。该方向致力于突破传统成像系统在体积、维度、速度和成本方面的限制，为高集成度、轻量化、智能化的多维成像与传感系统提供新路径。"
   },
   {
     "objectID": "research.html#metasurface-enabled-optical-computing",
     "href": "research.html#metasurface-enabled-optical-computing",
     "title": "Research",
-    "section": "1. Metasurface-enabled Optical Computing",
-    "text": "1. Metasurface-enabled Optical Computing\n\n\n\n\n\nUsing metasurfaces and diffractive neural networks for multidimensional, high-capacity, and parallel optical information processing. 该方向面向光计算与智能信息处理需求，研究基于超表面的光学计算架构，重点包括衍射神经网络、任务驱动光学编码以及多维度光信息并行处理等内容。通过设计具有特定传递特性的超表面器件，将光场调控、特征提取与计算功能前移至物理层，实现对幅度、相位、偏振、波长等多维信息的联合编码与处理。该方向致力于突破传统电子计算在功耗、并行度和数据吞吐方面的限制，为高容量、低能耗和高速并行的光学信息处理提供新方案。"
+    "section": "",
+    "text": "Using metasurfaces and diffractive neural networks for multidimensional, high-capacity, and parallel optical information processing.\n该方向面向光计算与智能信息处理需求，研究基于超表面的光学计算架构，重点包括衍射神经网络、任务驱动光学编码以及多维度光信息并行处理等内容。通过设计具有特定传递特性的超表面器件，将光场调控、特征提取与计算功能前移至物理层，实现对幅度、相位、偏振、波长等多维信息的联合编码与处理。该方向致力于突破传统电子计算在功耗、并行度和数据吞吐方面的限制，为高容量、低能耗和高速并行的光学信息处理提供新方案。"
   },
   {
     "objectID": "research.html#structured-light-field-manipulation-and-detection",
     "href": "research.html#structured-light-field-manipulation-and-detection",
     "title": "Research",
-    "section": "2. Structured Light Field Manipulation and Detection",
-    "text": "2. Structured Light Field Manipulation and Detection\n\n\n\n\n\nGenerating, controlling, and detecting complex structured light fields, including vortex beams, vector optical fields, and optical skyrmions. 该方向聚焦复杂结构光场的产生、调控与探测，重点研究涡旋光束、矢量光场以及光学斯格明子等特殊光场的物理构建方法、传播调控机制及其信息表征方式。通过超表面与衍射光学器件，实现对光场轨道角动量、自旋角动量、空间偏振纹理及拓扑特征的精确控制，并进一步发展面向复杂结构光场的高效检测与解码方法。该方向面向高维光通信、拓扑光子学、精密测量和新型信息编码等场景拓展。"
+    "section": "",
+    "text": "Generating, controlling, and detecting complex structured light fields, including vortex beams, vector optical fields, and optical skyrmions.\n该方向聚焦复杂结构光场的产生、调控与探测，重点研究涡旋光束、矢量光场以及光学斯格明子等特殊光场的物理构建方法、传播调控机制及其信息表征方式。通过超表面与衍射光学器件，实现对光场轨道角动量、自旋角动量、空间偏振纹理及拓扑特征的精确控制，并进一步发展面向复杂结构光场的高效检测与解码方法。该方向面向高维光通信、拓扑光子学、精密测量和新型信息编码等场景拓展。"
   },
   {
     "objectID": "research.html#incoherent-optical-differentiation-and-convolution",
     "href": "research.html#incoherent-optical-differentiation-and-convolution",
     "title": "Research",
-    "section": "3. Incoherent Optical Differentiation and Convolution",
-    "text": "3. Incoherent Optical Differentiation and Convolution\n\n\n\n\n\nExploring optical differentiation and convolution under practical incoherent illumination conditions.. 该方向面向实际成像与视觉感知场景中的非相干照明条件，研究非相干光学微分、卷积计算及其在图像边缘增强、特征提取和目标识别中的应用。不同于依赖相干干涉的传统光计算方法，该方向更加关注与自然光、宽带照明和常规成像系统兼容的计算架构，通过设计超表面的空间频率响应与等效光学传递函数，实现高阶微分、卷积核并行输出以及任务相关的光学预处理功能。该方向旨在推动光计算从理想实验条件走向真实成像环境，为低功耗、实时化、片上化视觉前端提供支撑。"
+    "section": "",
+    "text": "Exploring optical differentiation and convolution under practical incoherent illumination conditions.\n该方向面向实际成像与视觉感知场景中的非相干照明条件，研究非相干光学微分、卷积计算及其在图像边缘增强、特征提取和目标识别中的应用。不同于依赖相干干涉的传统光计算方法，该方向更加关注与自然光、宽带照明和常规成像系统兼容的计算架构，通过设计超表面的空间频率响应与等效光学传递函数，实现高阶微分、卷积核并行输出以及任务相关的光学预处理功能。该方向旨在推动光计算从理想实验条件走向真实成像环境，为低功耗、实时化、片上化视觉前端提供支撑。"
   },
   {
     "objectID": "research.html#high-dimensional-imaging-and-sensing",
     "href": "research.html#high-dimensional-imaging-and-sensing",
     "title": "Research",
-    "section": "4. High-dimensional Imaging and Sensing",
-    "text": "4. High-dimensional Imaging and Sensing\n\n\n\n\n\nIntegrating metasurface encoders with image sensors for multidimensional optical field sensing and imaging, including depth, 3D, spectral, and polarization information. 该方向面向新型智能成像芯片与多维光场感知需求，研究将超表面编码器直接集成到图像传感器前端，实现深度、三维形貌、光谱、偏振等多维信息的压缩编码探测与计算成像重建。通过在像面或近像面位置引入具有特定调制特性的超表面结构，可在硬件层面对入射光场进行高维编码，再结合重建算法或神经网络实现多维信息的单次快照恢复。该方向致力于突破传统成像系统在体积、维度、速度和成本方面的限制，为高集成度、轻量化、智能化的多维成像与传感系统提供新路径。"
+    "section": "",
+    "text": "Integrating metasurface encoders with image sensors for multidimensional optical field sensing and imaging, including depth, 3D, spectral, and polarization information.\n该方向面向新型智能成像芯片与多维光场感知需求，研究将超表面编码器直接集成到图像传感器前端，实现深度、三维形貌、光谱、偏振等多维信息的压缩编码探测与计算成像重建。通过在像面或近像面位置引入具有特定调制特性的超表面结构，可在硬件层面对入射光场进行高维编码，再结合重建算法或神经网络实现多维信息的单次快照恢复。该方向致力于突破传统成像系统在体积、维度、速度和成本方面的限制，为高集成度、轻量化、智能化的多维成像与传感系统提供新路径。"
   },
   {
     "objectID": "publications/paper-01.html",
@@ -177,8 +177,22 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications & Patents",
     "section": "",
-    "text": "Publications\n\n\n\n\n\n\n\n\n\n\nSample Paper Title\n\n\nA sample publication entry for your academic homepage.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "My research focuses on metasurface-enabled optical computing, structured light manipulation, nonlocal optical analog processing, and integrated multidimensional sensing. Selected representative works are highlighted below."
+  },
+  {
+    "objectID": "publications.html#selected-publications",
+    "href": "publications.html#selected-publications",
+    "title": "Publications & Patents",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\nSimultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces\nXiaoxin Li, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding\nAdvanced Photonics Nexus (2024)\nDOI: 10.1117/1.APN.3.3.036010\nSummary:\nA compact spin-multiplexed diffractive metasurface framework for simultaneous sorting and detection of arbitrary vector structured beams.\nHighlights:\n- Supports simultaneous identification of vector beams based on LG, HG, and BG modes\n- Uses cascaded diffractive metasurfaces as a compact optical neural network\n- Provides a practical route toward integrated and high-dimensional optical communication systems\n\n\n\nDiffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams\nXiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Donghua Tang, Yongyin Cao, Fangkui Sun, Rui Feng, Weiqiang Ding\nAdvanced Optical Materials (2025)\nDOI: 10.1002/adom.202403405\nSummary:\nA single-shot and real-time characterization strategy for hybrid-order Poincaré beams using cascaded diffractive metasurfaces and electronic neural networks.\nHighlights:\n- Enables direct single-shot characterization without conventional multi-step polarization projection\n- Diffractive metasurfaces function as an optical processor for vector-mode transformation\n- Achieves low average reconstruction errors for the key Poincaré parameters\n\n\n\nPolarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces\nYalong Liu, Xiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding\nOptics Letters (2025)\nDOI: 10.1364/OL.562895\nSummary:\nA nonlocal dielectric metasurface for polarization-independent optical edge detection with both high numerical aperture and broadband response.\nHighlights:\n- Polarization-independent operation under arbitrary polarization conditions, including unpolarized illumination\n- Broadband edge detection with a 48 nm operating range centered around 1064 nm\n- High numerical aperture up to 0.5 for practical optical computing and imaging applications\n\n\n\nBilayer Metasurface-Enabled High-Sensitivity Near-Infrared Computational Spectrometer\nJuntong Chen, Xiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Wenya Gao, Yanyu Gao, Wentong Shi, Yongyin Cao, Hongyan Shi, Fangkui Sun, Rui Feng, Weiqiang Ding\nOptics Communications (2025)\nDOI: 10.1016/j.optcom.2025.132051\nSummary:\nA bilayer metasurface computational spectrometer that combines spectral encoding and broadband achromatic focusing for high-sensitivity near-infrared sensing.\nHighlights:\n- Ultra-compact footprint of only 21 × 21 μm\n- Sensitivity improved by about 60% compared with conventional structures\n- Spectral reconstruction fidelity reaches 93.5%\n\n\n\nEfficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism\nBojian Shi, Qi Jia, Xiaoxin Li, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao, Xiaoyu Li, Donghua Tang, Tongtong Zhu, Shan Gao, Jing Yang, Rui Feng, Fangkui Sun, Chunying Guan, Yongyin Cao, Cheng-Wei Qiu, Weiqiang Ding\nNature Communications (2025)\nDOI: 10.1038/s41467-025-59941-6\nSummary:\nA transverse-spin-matching mechanism for efficient coupling between topological photonic crystal waveguides and conventional strip waveguides.\nHighlights:\n- Reveals transverse spin matching as the key coupling mechanism for TWG-related interconnections\n- Demonstrates theoretical and experimental transmission efficiencies of 96.3% and 94.2%, respectively\n- Provides a route toward compact and high-efficiency topological photonic chips"
+  },
+  {
+    "objectID": "publications.html#patents",
+    "href": "publications.html#patents",
+    "title": "Publications & Patents",
+    "section": "Patents",
+    "text": "Patents\n\nBroadband Full-Stokes Polarization Imaging Device Based on Non-Orthogonal Four-Channel Polarization Splitting\nStatus: Patent application accepted\nApplication No.: 202511764621.1\nApplication Date: 2025-11-27\nApplicant: Harbin Institute of Technology\nInventors: Ding Weiqiang, Li Xiaoxin, Feng Rui, Cao Yongyin, Sun Fangkui\nA broadband full-Stokes polarization imaging device based on non-orthogonal four-channel polarization splitting.\n\n\n\nPolarization-State Characterization Method for Hybrid-Order Poincaré Beams Based on Diffractive Metasurfaces\nStatus: Patent application accepted\nApplication No.: 202510183871.X\nApplication Date: 2025-02-19\nApplicant: Harbin Institute of Technology\nInventors: Li Xiaoxin, Feng Rui, Shi Bojian, Ding Weiqiang, Sun Fangkui\nA diffractive-metasurface-based method for polarization-state characterization of hybrid-order Poincaré beams.\n\n\n\nPixel-Level High-Efficiency Visible Bayer Color Filter Based on Metalens / Metasurface\nStatus: Patent application accepted\nApplication No.: 202211486566.0\nApplication Date: 2022-11-24\nApplicant: Harbin Institute of Technology\nA pixel-level high-efficiency visible Bayer color filter based on a metalens / metasurface architecture."
   }
 ]
