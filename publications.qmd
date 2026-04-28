@@ -2,41 +2,33 @@
 title: "Publications & Patents"
 ---
 
-My research focuses on metasurface-enabled optical computing, structured light manipulation, nonlocal optical analog processing, and integrated multidimensional sensing. Selected representative works are highlighted below.
+Selected representative works are highlighted below.
 
 ## Selected Publications
 
-### Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces
+### 1.[Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces](assets/pdf/Simultaneous sorting of arbitrary vector structured beams with spin-multiplexed.pdf)
 
 **Xiaoxin Li**, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding
 
 **Advanced Photonics Nexus (2024)**  
-**DOI:** 10.1117/1.APN.3.3.036010
 
 **Summary:**  
 A compact spin-multiplexed diffractive metasurface framework for simultaneous sorting and detection of arbitrary vector structured beams.
 
 **Highlights:**  
-- Supports simultaneous identification of vector beams based on LG, HG, and BG modes  
-- Uses cascaded diffractive metasurfaces as a compact optical neural network  
-- Provides a practical route toward integrated and high-dimensional optical communication systems  
+![](assets/images/SCR-20260428-vhz.png){width=220 fig-align="center"}
 
 ---
 
-### Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams
+### 2.[Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](assets/pdf/Diffractive Metasurface-enabled Single-shot Characterization of Hybrid-Order Poincaré Beams.pdf)
 
-**Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Donghua Tang, Yongyin Cao, Fangkui Sun, Rui Feng, Weiqiang Ding
-
-**Advanced Optical Materials (2025)**  
-**DOI:** 10.1002/adom.202403405
+**Xiaoxin Li**, et al. **Advanced Optical Materials (2025)**  
 
 **Summary:**  
 A single-shot and real-time characterization strategy for hybrid-order Poincaré beams using cascaded diffractive metasurfaces and electronic neural networks.
 
 **Highlights:**  
-- Enables direct single-shot characterization without conventional multi-step polarization projection  
-- Diffractive metasurfaces function as an optical processor for vector-mode transformation  
-- Achieves low average reconstruction errors for the key Poincaré parameters  
+![](assets/images/SCR-20260428-vl0.jpeg){width=220 fig-align="center"}
 
 ---
 

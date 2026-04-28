@@ -49,15 +49,15 @@
     "text": "李效欣，物理学博士，目前于杭州北京航天航空大学国际创新研究院绿色光子国际研究中心从事博士后研究。本、硕和博士均毕业于哈尔滨工业大学物理学院，博士生导师为丁卫强教授。毕业后加入北航国新院从事博士后，合作导师为王浩教授。 研究领域聚焦于纳米光子学，主要包括基于超表面的多维度并行光计算、超表面集成的高维光场感知芯片与超表面多维度光场调控等，近年来发表论文20余篇，包括Nature Communications、ACS Photonics、Advanced Optical Materials、Advanced photonics Nexus等，申请及授权相关发明专利8项，多次参与中国国际大学生创新大赛并获得金奖等。"
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#education教育经历",
+    "href": "index.html#education教育经历",
     "title": "Home",
     "section": "",
     "text": "2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程"
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
+    "objectID": "index.html#research-interests研究领域",
+    "href": "index.html#research-interests研究领域",
     "title": "Home",
     "section": "",
     "text": "超构表面（Metasurface optics）\n自由空间光计算（Free Space Optical Computing）\n多维度计算成像（Multi-Demonsion Computational Imaging）\n结构光场调控（Structured Light Field Modulation）\n集成超构芯片/传感器（Integrated Meta-optics Chip/Sensor）"
@@ -70,46 +70,25 @@
     "text": "Google Scholar\nResearcher\nDownload CV"
   },
   {
-    "objectID": "projects/project-01.html",
-    "href": "projects/project-01.html",
-    "title": "Sample Project Title",
+    "objectID": "publications/paper-01.html",
+    "href": "publications/paper-01.html",
+    "title": "Sample Paper Title",
     "section": "",
-    "text": "This project explores a metasurface-enabled optical information processing architecture.\n\n\n\nThe project combines physical optical encoding with computational reconstruction.\n\n\n\nI designed the concept, simulation framework, and system validation pipeline.\n\n\n\n\nPaper 1\nPatent 1\nConference Talk 1"
+    "text": "Authors: Your Name, Coauthor A, Coauthor B\nJournal: Journal Name, 2026\nDOI: 10.xxxx/xxxxx\n\n\nThis paper presents a sample entry used to demonstrate how publication pages are organized on the website.\n\n\n\n\nPDF"
   },
   {
-    "objectID": "projects/project-01.html#background",
-    "href": "projects/project-01.html#background",
-    "title": "Sample Project Title",
+    "objectID": "publications/paper-01.html#summary",
+    "href": "publications/paper-01.html#summary",
+    "title": "Sample Paper Title",
     "section": "",
-    "text": "This project explores a metasurface-enabled optical information processing architecture."
+    "text": "This paper presents a sample entry used to demonstrate how publication pages are organized on the website."
   },
   {
-    "objectID": "projects/project-01.html#innovation",
-    "href": "projects/project-01.html#innovation",
-    "title": "Sample Project Title",
+    "objectID": "publications/paper-01.html#links",
+    "href": "publications/paper-01.html#links",
+    "title": "Sample Paper Title",
     "section": "",
-    "text": "The project combines physical optical encoding with computational reconstruction."
-  },
-  {
-    "objectID": "projects/project-01.html#my-role",
-    "href": "projects/project-01.html#my-role",
-    "title": "Sample Project Title",
-    "section": "",
-    "text": "I designed the concept, simulation framework, and system validation pipeline."
-  },
-  {
-    "objectID": "projects/project-01.html#related-outputs",
-    "href": "projects/project-01.html#related-outputs",
-    "title": "Sample Project Title",
-    "section": "",
-    "text": "Paper 1\nPatent 1\nConference Talk 1"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Contact\n\nEmail: yourname@university.edu\nGoogle Scholar: Profile\nORCID: Profile\nGitHub: Profile"
+    "text": "PDF"
   },
   {
     "objectID": "research.html",
@@ -147,46 +126,60 @@
     "text": "Integrating metasurface encoders with image sensors for multidimensional optical field sensing and imaging, including depth, 3D, spectral, and polarization information.\n该方向面向新型智能成像芯片与多维光场感知需求，研究将超表面编码器直接集成到图像传感器前端，实现深度、三维形貌、光谱、偏振等多维信息的压缩编码探测与计算成像重建。通过在像面或近像面位置引入具有特定调制特性的超表面结构，可在硬件层面对入射光场进行高维编码，再结合重建算法或神经网络实现多维信息的单次快照恢复。该方向致力于突破传统成像系统在体积、维度、速度和成本方面的限制，为高集成度、轻量化、智能化的多维成像与传感系统提供新路径。"
   },
   {
-    "objectID": "publications/paper-01.html",
-    "href": "publications/paper-01.html",
-    "title": "Sample Paper Title",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Authors: Your Name, Coauthor A, Coauthor B\nJournal: Journal Name, 2026\nDOI: 10.xxxx/xxxxx\n\n\nThis paper presents a sample entry used to demonstrate how publication pages are organized on the website.\n\n\n\n\nPDF"
+    "text": "Contact(联系方式)\n\nEmail: 18846828231@163.com/21B911003@stu.hit.edu.cn\nWechat:\nGoogle Scholar: Profile\nResearcher: Profile"
   },
   {
-    "objectID": "publications/paper-01.html#summary",
-    "href": "publications/paper-01.html#summary",
-    "title": "Sample Paper Title",
+    "objectID": "projects/project-01.html",
+    "href": "projects/project-01.html",
+    "title": "Sample Project Title",
     "section": "",
-    "text": "This paper presents a sample entry used to demonstrate how publication pages are organized on the website."
+    "text": "This project explores a metasurface-enabled optical information processing architecture.\n\n\n\nThe project combines physical optical encoding with computational reconstruction.\n\n\n\nI designed the concept, simulation framework, and system validation pipeline.\n\n\n\n\nPaper 1\nPatent 1\nConference Talk 1"
   },
   {
-    "objectID": "publications/paper-01.html#links",
-    "href": "publications/paper-01.html#links",
-    "title": "Sample Paper Title",
+    "objectID": "projects/project-01.html#background",
+    "href": "projects/project-01.html#background",
+    "title": "Sample Project Title",
     "section": "",
-    "text": "PDF"
+    "text": "This project explores a metasurface-enabled optical information processing architecture."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "projects/project-01.html#innovation",
+    "href": "projects/project-01.html#innovation",
+    "title": "Sample Project Title",
     "section": "",
-    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nSample Project Title\n\n\nA sample project entry for your academic homepage.\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The project combines physical optical encoding with computational reconstruction."
+  },
+  {
+    "objectID": "projects/project-01.html#my-role",
+    "href": "projects/project-01.html#my-role",
+    "title": "Sample Project Title",
+    "section": "",
+    "text": "I designed the concept, simulation framework, and system validation pipeline."
+  },
+  {
+    "objectID": "projects/project-01.html#related-outputs",
+    "href": "projects/project-01.html#related-outputs",
+    "title": "Sample Project Title",
+    "section": "",
+    "text": "Paper 1\nPatent 1\nConference Talk 1"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications & Patents",
     "section": "",
-    "text": "My research focuses on metasurface-enabled optical computing, structured light manipulation, nonlocal optical analog processing, and integrated multidimensional sensing. Selected representative works are highlighted below."
+    "text": "Selected representative works are highlighted below."
   },
   {
     "objectID": "publications.html#selected-publications",
     "href": "publications.html#selected-publications",
     "title": "Publications & Patents",
     "section": "Selected Publications",
-    "text": "Selected Publications\n\nSimultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces\nXiaoxin Li, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding\nAdvanced Photonics Nexus (2024)\nDOI: 10.1117/1.APN.3.3.036010\nSummary:\nA compact spin-multiplexed diffractive metasurface framework for simultaneous sorting and detection of arbitrary vector structured beams.\nHighlights:\n- Supports simultaneous identification of vector beams based on LG, HG, and BG modes\n- Uses cascaded diffractive metasurfaces as a compact optical neural network\n- Provides a practical route toward integrated and high-dimensional optical communication systems\n\n\n\nDiffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams\nXiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Donghua Tang, Yongyin Cao, Fangkui Sun, Rui Feng, Weiqiang Ding\nAdvanced Optical Materials (2025)\nDOI: 10.1002/adom.202403405\nSummary:\nA single-shot and real-time characterization strategy for hybrid-order Poincaré beams using cascaded diffractive metasurfaces and electronic neural networks.\nHighlights:\n- Enables direct single-shot characterization without conventional multi-step polarization projection\n- Diffractive metasurfaces function as an optical processor for vector-mode transformation\n- Achieves low average reconstruction errors for the key Poincaré parameters\n\n\n\nPolarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces\nYalong Liu, Xiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding\nOptics Letters (2025)\nDOI: 10.1364/OL.562895\nSummary:\nA nonlocal dielectric metasurface for polarization-independent optical edge detection with both high numerical aperture and broadband response.\nHighlights:\n- Polarization-independent operation under arbitrary polarization conditions, including unpolarized illumination\n- Broadband edge detection with a 48 nm operating range centered around 1064 nm\n- High numerical aperture up to 0.5 for practical optical computing and imaging applications\n\n\n\nBilayer Metasurface-Enabled High-Sensitivity Near-Infrared Computational Spectrometer\nJuntong Chen, Xiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Wenya Gao, Yanyu Gao, Wentong Shi, Yongyin Cao, Hongyan Shi, Fangkui Sun, Rui Feng, Weiqiang Ding\nOptics Communications (2025)\nDOI: 10.1016/j.optcom.2025.132051\nSummary:\nA bilayer metasurface computational spectrometer that combines spectral encoding and broadband achromatic focusing for high-sensitivity near-infrared sensing.\nHighlights:\n- Ultra-compact footprint of only 21 × 21 μm\n- Sensitivity improved by about 60% compared with conventional structures\n- Spectral reconstruction fidelity reaches 93.5%\n\n\n\nEfficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism\nBojian Shi, Qi Jia, Xiaoxin Li, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao, Xiaoyu Li, Donghua Tang, Tongtong Zhu, Shan Gao, Jing Yang, Rui Feng, Fangkui Sun, Chunying Guan, Yongyin Cao, Cheng-Wei Qiu, Weiqiang Ding\nNature Communications (2025)\nDOI: 10.1038/s41467-025-59941-6\nSummary:\nA transverse-spin-matching mechanism for efficient coupling between topological photonic crystal waveguides and conventional strip waveguides.\nHighlights:\n- Reveals transverse spin matching as the key coupling mechanism for TWG-related interconnections\n- Demonstrates theoretical and experimental transmission efficiencies of 96.3% and 94.2%, respectively\n- Provides a route toward compact and high-efficiency topological photonic chips"
+    "text": "Selected Publications\n\n1.Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces\nXiaoxin Li, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding\nAdvanced Photonics Nexus (2024)\nSummary:\nA compact spin-multiplexed diffractive metasurface framework for simultaneous sorting and detection of arbitrary vector structured beams.\nHighlights:\n\n\n\n\n2.Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams\nXiaoxin Li, et al. Advanced Optical Materials (2025)\nSummary:\nA single-shot and real-time characterization strategy for hybrid-order Poincaré beams using cascaded diffractive metasurfaces and electronic neural networks.\nHighlights:\n\n\n\n\nPolarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces\nYalong Liu, Xiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding\nOptics Letters (2025)\nDOI: 10.1364/OL.562895\nSummary:\nA nonlocal dielectric metasurface for polarization-independent optical edge detection with both high numerical aperture and broadband response.\nHighlights:\n- Polarization-independent operation under arbitrary polarization conditions, including unpolarized illumination\n- Broadband edge detection with a 48 nm operating range centered around 1064 nm\n- High numerical aperture up to 0.5 for practical optical computing and imaging applications\n\n\n\nBilayer Metasurface-Enabled High-Sensitivity Near-Infrared Computational Spectrometer\nJuntong Chen, Xiaoxin Li, Bojian Shi, Qi Jia, Yanxia Zhang, Wenya Gao, Yanyu Gao, Wentong Shi, Yongyin Cao, Hongyan Shi, Fangkui Sun, Rui Feng, Weiqiang Ding\nOptics Communications (2025)\nDOI: 10.1016/j.optcom.2025.132051\nSummary:\nA bilayer metasurface computational spectrometer that combines spectral encoding and broadband achromatic focusing for high-sensitivity near-infrared sensing.\nHighlights:\n- Ultra-compact footprint of only 21 × 21 μm\n- Sensitivity improved by about 60% compared with conventional structures\n- Spectral reconstruction fidelity reaches 93.5%\n\n\n\nEfficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism\nBojian Shi, Qi Jia, Xiaoxin Li, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao, Xiaoyu Li, Donghua Tang, Tongtong Zhu, Shan Gao, Jing Yang, Rui Feng, Fangkui Sun, Chunying Guan, Yongyin Cao, Cheng-Wei Qiu, Weiqiang Ding\nNature Communications (2025)\nDOI: 10.1038/s41467-025-59941-6\nSummary:\nA transverse-spin-matching mechanism for efficient coupling between topological photonic crystal waveguides and conventional strip waveguides.\nHighlights:\n- Reveals transverse spin matching as the key coupling mechanism for TWG-related interconnections\n- Demonstrates theoretical and experimental transmission efficiencies of 96.3% and 94.2%, respectively\n- Provides a route toward compact and high-efficiency topological photonic chips"
   },
   {
     "objectID": "publications.html#patents",
