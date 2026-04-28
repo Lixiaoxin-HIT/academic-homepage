@@ -23,8 +23,8 @@ website:
       - text: "GitHub"
         href: https://github.com/Lixiaoxin-HIT
   page-footer:
-    left: "© 2026 Your Name"
-    right: "Built with Quarto"
+    left: "© 2026 Li Xiaoxin"
+    right: "Beihang University"
 
 format:
   html:
