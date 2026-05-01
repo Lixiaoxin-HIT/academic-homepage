@@ -100,37 +100,30 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "CV(简历)",
     "section": "",
-    "text": "You can download my CV here:\n\nDownload CV (PDF)\n\n\n\n\nPostdoctoral Researcher\n\n\n\n\n\nPh.D.\nM.S.\nB.S.\n\n\n\n\n\nAdd your awards here\n\n\n\n\n\nReviewer for journals\nConference presentations"
+    "text": "You can download my CV here:"
   },
   {
-    "objectID": "cv.html#appointments",
-    "href": "cv.html#appointments",
-    "title": "CV",
-    "section": "",
-    "text": "Postdoctoral Researcher"
+    "objectID": "cv.html#education教育背景",
+    "href": "cv.html#education教育背景",
+    "title": "CV(简历)",
+    "section": "Education（教育背景）",
+    "text": "Education（教育背景）\n\n2021-2026 博士，哈尔滨工业大学 物理学院 微纳光学\n2019-2021 硕士，哈尔滨工业大学 物理学院 光学\n2015-2019 本科，哈尔滨工业大学 理学院 光电信息科学与工程"
   },
   {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "",
-    "text": "Ph.D.\nM.S.\nB.S."
-  },
-  {
-    "objectID": "cv.html#honors-and-awards",
-    "href": "cv.html#honors-and-awards",
-    "title": "CV",
-    "section": "",
-    "text": "Add your awards here"
+    "objectID": "cv.html#honors-and-awards奖项荣誉",
+    "href": "cv.html#honors-and-awards奖项荣誉",
+    "title": "CV(简历)",
+    "section": "Honors and Awards（奖项荣誉）",
+    "text": "Honors and Awards（奖项荣誉）\n\n第十届中国国际大学生创新大赛黑龙江赛区金奖（2024）\n哈尔滨工业大学首届师生创业大赛三等奖（2024）\n第九届全国大学生“互联网+”创新创业大赛黑龙江赛区银奖（2023）\n2025全国光学与光学工程博士生学术联赛东北赛区三等奖（2025）\n2025届哈尔滨工业大学物理学院“优秀毕业生”（博士）（2025）"
   },
   {
     "objectID": "cv.html#academic-services",
     "href": "cv.html#academic-services",
-    "title": "CV",
-    "section": "",
-    "text": "Reviewer for journals\nConference presentations"
+    "title": "CV(简历)",
+    "section": "Academic Services",
+    "text": "Academic Services\n\nReviewer for journals"
   },
   {
     "objectID": "projects/project-01.html",

@@ -4,7 +4,7 @@ title: "Contact(联系方式)"
 
 - Email: 18846828231@163.com/21B911003@stu.hit.edu.cn
 
-- Wechat:![](assets/images/IMG_6762.JPG){width=220 fig-align="center"}
+- Wechat:![](assets/images/IMG_6762.JPG){width=600 fig-align="center"}
 
 - Google Scholar: [Profile](https://scholar.google.com.hk/citations?user=_G05MfUAAAAJ&hl=zh-CN)
 
