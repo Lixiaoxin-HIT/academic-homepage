@@ -1,8 +1,6 @@
 ---
-title: "Contact"
+title: "Contact(联系方式)"
 ---
-
-# Contact(联系方式)
 
 - Email: 18846828231@163.com/21B911003@stu.hit.edu.cn
 

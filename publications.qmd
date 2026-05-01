@@ -16,7 +16,7 @@ Selected representative works are highlighted below.
 A compact spin-multiplexed diffractive metasurface framework for simultaneous sorting and detection of arbitrary vector structured beams.
 
 **Highlights:**  
-![](assets/images/SCR-20260428-vhz.png){width=220 fig-align="center"}
+![](assets/images/SCR-20260428-vhz.png){width=400 fig-align="center"}
 
 ---
 
@@ -28,7 +28,7 @@ A compact spin-multiplexed diffractive metasurface framework for simultaneous so
 A single-shot and real-time characterization strategy for hybrid-order Poincaré beams using cascaded diffractive metasurfaces and electronic neural networks.
 
 **Highlights:**  
-![](assets/images/SCR-20260428-vl0.jpeg){width=220 fig-align="center"}
+![](assets/images/SCR-20260428-vl0.jpeg){width=400 fig-align="center"}
 
 ---
 
