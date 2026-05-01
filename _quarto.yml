@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Li Xiaoxin"
+  favicon: assets/images/favicon.png
   navbar:
     search: true
     left:

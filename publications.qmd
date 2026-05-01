@@ -4,13 +4,11 @@ title: "Publications & Patents"
 
 Selected representative works are highlighted below.
 
-## Selected Publications
+## Selected Publications（论文）
 
-### 1.[Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces](assets/pdf/Simultaneous sorting of arbitrary vector structured beams with spin-multiplexed.pdf)
+### 1. [Simultaneous Sorting of Arbitrary Vector Structured Beams with Spin-Multiplexed Diffractive Metasurfaces](assets/pdf/Simultaneous sorting of arbitrary vector structured beams with spin-multiplexed.pdf)
 
-**Xiaoxin Li**, Rui Feng, Fangkui Sun, Yanxia Zhang, Qi Jia, Donghua Tang, Bojian Shi, Hang Li, Yanyu Gao, Wenya Gao, Yongyin Cao, Weiqiang Ding
-
-**Advanced Photonics Nexus (2024)**  
+*Xiaoxin Li*, et al. Advanced Photonics Nexus, 2024, 3(3): 036010-036010.
 
 **Summary:**  
 A compact spin-multiplexed diffractive metasurface framework for simultaneous sorting and detection of arbitrary vector structured beams.
@@ -20,9 +18,9 @@ A compact spin-multiplexed diffractive metasurface framework for simultaneous so
 
 ---
 
-### 2.[Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](assets/pdf/Diffractive Metasurface-enabled Single-shot Characterization of Hybrid-Order Poincaré Beams.pdf)
+### 2. [Diffractive Metasurface-Enabled Single-Shot Characterization of Hybrid-Order Poincaré Beams](assets/pdf/Diffractive Metasurface-enabled Single-shot Characterization of Hybrid-Order Poincaré Beams.pdf)
 
-**Xiaoxin Li**, et al. **Advanced Optical Materials (2025)**  
+*Xiaoxin Li*, et al. Advanced Optical Materials, 2025, 13(13): 2403405. 
 
 **Summary:**  
 A single-shot and real-time characterization strategy for hybrid-order Poincaré beams using cascaded diffractive metasurfaces and electronic neural networks.
@@ -32,20 +30,28 @@ A single-shot and real-time characterization strategy for hybrid-order Poincaré
 
 ---
 
-### Polarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces
+---
 
-Yalong Liu, **Xiaoxin Li**, Bojian Shi, Qi Jia, Yanxia Zhang, Yanyu Gao, Wenya Gao, Fangkui Sun, Yongyin Cao, Rui Feng, Weiqiang Ding
+### 3. Efficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism
 
-**Optics Letters (2025)**  
-**DOI:** 10.1364/OL.562895
+Bojian Shi, Qi Jia, *Xiaoxin Li*, Nature Communications (2025) 
+
+**Summary:**  
+A transverse-spin-matching mechanism for efficient coupling between topological photonic crystal waveguides and conventional strip waveguides.
+
+**Highlights:**  
+![](assets/images/SCR-20260501-nc.png){width=1000 fig-align="center"}
+
+
+### 4. Polarization-Independent, High-NA Edge Detection with Nonlocal Metasurfaces
+
+Yalong Liu, *Xiaoxin Li_#*, el al. Optics Letters, 2025, 50(11): 3517-3520. 
 
 **Summary:**  
 A nonlocal dielectric metasurface for polarization-independent optical edge detection with both high numerical aperture and broadband response.
 
 **Highlights:**  
-- Polarization-independent operation under arbitrary polarization conditions, including unpolarized illumination  
-- Broadband edge detection with a 48 nm operating range centered around 1064 nm  
-- High numerical aperture up to 0.5 for practical optical computing and imaging applications  
+![](assets/images/SCR-20260501-vhz.png){width=1000 fig-align="center"}
 
 ---
 
@@ -64,25 +70,10 @@ A bilayer metasurface computational spectrometer that combines spectral encoding
 - Sensitivity improved by about 60% compared with conventional structures  
 - Spectral reconstruction fidelity reaches 93.5%  
 
----
-
-### Efficient Coupling of Topological Photonic Crystal Waveguides Based on Transverse Spin Matching Mechanism
-
-Bojian Shi, Qi Jia, **Xiaoxin Li**, Yanxia Zhang, Hang Li, Yanyu Gao, Wenya Gao, Xiaoyu Li, Donghua Tang, Tongtong Zhu, Shan Gao, Jing Yang, Rui Feng, Fangkui Sun, Chunying Guan, Yongyin Cao, Cheng-Wei Qiu, Weiqiang Ding
-
-**Nature Communications (2025)**  
-**DOI:** 10.1038/s41467-025-59941-6
-
-**Summary:**  
-A transverse-spin-matching mechanism for efficient coupling between topological photonic crystal waveguides and conventional strip waveguides.
-
-**Highlights:**  
-- Reveals transverse spin matching as the key coupling mechanism for TWG-related interconnections  
-- Demonstrates theoretical and experimental transmission efficiencies of 96.3% and 94.2%, respectively  
-- Provides a route toward compact and high-efficiency topological photonic chips  
 
 
-## Patents
+
+## Patents(专利)
 
 ### Broadband Full-Stokes Polarization Imaging Device Based on Non-Orthogonal Four-Channel Polarization Splitting
 
